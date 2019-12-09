@@ -6,7 +6,6 @@
 * [About the Project](#about-the-project)
   * [Built With](#built-with)
 * [Getting Started](#getting-started)
-  * [Prerequisites](#prerequisites)
   * [Installation](#installation)
 * [Usage](#usage)
 * [Contributing](#contributing)
@@ -33,32 +32,30 @@ This section should list any major frameworks that you built your project using.
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+You will first need to clone this repository to your local machine. 
 
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
+1. On GitHub, navigate to the main page of the repository.
+2. Under the repository name, click Clone or download. 
+3. Copy "Clone with HTTPS"
+4. Open Git Bash
+5. Change the current working directory to the location where you want the cloned directory to be made.
+6. Type git clone, and then paste the URL you copied in Step 3.
 ```sh
-npm install npm@latest -g
+git clone git clone https://github.com/an1tra/Bamazon.git
 ```
+7. Press Enter. Your local clone will be created.
+
+To view this application you will need to download node.js or run it in your command prompt. This project cannot be viewed in the browser.
+
+
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-```sh
-git clone https://github.com/an1tra/Bamazon.git
-```
-3. Install NPM packages
+1. Install NPM packages
 ```sh
 npm install
 ```
-4. Enter your API in `config.js`
-```JS
-const API_KEY = 'ENTER YOUR API';
-```
+
 
 
 
@@ -82,7 +79,7 @@ Contributions are what make the open source community such an amazing place to b
 <!-- CONTACT -->
 ## Contact
 
-Anitra McCain - [githb](https://github.com/an1tra) - anitra.oursky@gmail.com
+Anitra McCain - [github](https://github.com/an1tra) - anitra.oursky@gmail.com
 
 Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
 
