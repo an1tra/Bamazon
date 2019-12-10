@@ -81,7 +81,7 @@ Contributions are what make the open source community such an amazing place to b
 
 Anitra McCain - [github](https://github.com/an1tra) - anitra.oursky@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: This project must be viewed in node.js.
 
 
 
